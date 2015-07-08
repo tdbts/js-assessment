@@ -1,0 +1,765 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"str2"
+			],
+			[
+				"subsci",
+				"subscription"
+			],
+			[
+				"getp",
+				"getRandomPowerwords"
+			],
+			[
+				"po",
+				"postTextToJumbotron"
+			],
+			[
+				"subscr",
+				"subscription"
+			],
+			[
+				"activb",
+				"activateButtons"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"getElem",
+				"getElementsByClassName"
+			],
+			[
+				"pub",
+				"pubsub"
+			],
+			[
+				"activatebtn",
+				"activateBtn_gotoAdd"
+			],
+			[
+				"publish",
+				"publish"
+			],
+			[
+				"activ",
+				"activateBtn_randomPowerwords"
+			],
+			[
+				"getrp",
+				"get_random_powerwords"
+			],
+			[
+				"actvb",
+				"activateBtn_clearInput"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"activab",
+				"activateButton"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"second",
+				"second"
+			],
+			[
+				"por",
+				"portNumber"
+			],
+			[
+				"new",
+				"newTimeStamp"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"arv",
+				"argv"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "if (typeof define !== 'function') { var define = require('amdefine')(module); }\n\ndefine([ 'jquery' ], function($) {\n  return {\n    async : function(value) {\n    	\n    },\n\n    manipulateRemoteData : function(url) {\n\n    }\n  };\n});\n",
+			"file": "app/async.js",
+			"file_size": 225,
+			"file_write_time": 130662513690779820,
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/numbers.js",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/async.js",
+			"settings":
+			{
+				"buffer_size": 1250,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/app/numbers.js",
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "help.txt",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 4350,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jvs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"coop",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"synj",
+				"Set Syntax: Jade"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pakci",
+				"Package Control: Install Package"
+			],
+			[
+				"paki",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"findk",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/regex.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/regex.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/recursion.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/recursion.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/logicalOperators.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/logicalOperators.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/flowControl.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/flowControl.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/functions.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/functions.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/count.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/count.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/modules.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/modules.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/arrays.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/arrays.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/bestPractices.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/bestPractices.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/app/objects.js",
+		"/home/tdbts/Documents/Hckr/projects/js-assessment/tests/app/objects.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/3-myfirstIO.js",
+		"/home/tdbts/.config/sublime-text-2/Packages/User/Javascript/SNIPPET - iife.sublime-snippet",
+		"/home/tdbts/.config/sublime-text-2/Packages/User/Javascript/SNIPPET - module.sublime-snippet",
+		"/home/tdbts/Documents/Hckr/bash/bash_commands.txt",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/scrap.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/welcome.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/stylesheets/style.css",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/layout.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/text_input.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/tag_input.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/trigger_input.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/add.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/index.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/emergency.jade",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/controllers/dataControl.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/models/contentModel.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/models/base.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/views/base.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/jq-script.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/.gitignore",
+		"/home/tdbts/.profile",
+		"/home/tdbts/.bashrc",
+		"/home/tdbts/.pofile",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/shuffleArray.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/jqPubSub.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/pubsub.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/utils.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/assignEventToButtonClass.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/Button.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/test/testables.js",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/package.json",
+		"/home/tdbts/Documents/Hckr/projects/apps/sobrobot/public/javascripts/JQSCRIPT_ORIG_1.js",
+		"/home/tdbts/Documents/Hckr/lessons/jsDesignPatterns_AddyOsmani_FULL.js",
+		"/home/tdbts/Documents/Hckr/opc/jquery-tiny-pubsub/src/tiny-pubsub.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/6b-makeItModular.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/6a-fileModule.js",
+		"/home/tdbts/Documents/Hckr/boilerplate/Javascript/Useful_Scripts/getType.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/6-makeItModular.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/httpFileServer.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/12-httpUpperCaserer.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/6-fileModule.js",
+		"/home/tdbts/Documents/Hckr/bash/install_chrome.sh",
+		"/home/tdbts/Documents/Hckr/projects/node_test/learnyounode/babysteps.js",
+		"/home/tdbts/Documents/Hckr/projects/node_test/hello.js",
+		"/home/tdbts/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/tdbts/Documents/Hckr/boilerplate/jQuery/pubsub_BenAlman/tiny-pubsub.js",
+		"/home/tdbts/.ssh/id_rsa.pub",
+		"/home/tdbts/.ssh/config",
+		"/home/tdbts/.config/sublime-text-2/Packages/InsertDate/Default (Linux).sublime-keymap",
+		"/home/tdbts/.config/sublime-text-2/Packages/InsertDate/insert_date.sublime-settings",
+		"/home/tdbts/.config/sublime-text-2/Packages/User/View In Browser.sublime-settings",
+		"/home/tdbts/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/tdbts/Downloads/st2_userDefaultSettings.sublime-keymap",
+		"/home/tdbts/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/tdbts/.config/sublime-text-2/Packages/FindKeyConflicts/README.md",
+		"/home/tdbts/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/tdbts/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/tdbts/.config/sublime-text-2/Packages/Default/Preferences (Linux).sublime-settings",
+		"/home/tdbts/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"moduleHandler",
+			"moduleType",
+			"dom",
+			"handlerec",
+			"response.powerwords",
+			"console.log",
+			"ajaxrequest",
+			"getan",
+			"request.random",
+			";\n",
+			"checkIfActive",
+			"getanother",
+			"request.random",
+			"request.",
+			"pwArr",
+			"handlerec",
+			"response.powerwords",
+			"server",
+			"response.powerwords",
+			"getPowerwordsFromServer",
+			"getRandomPowerwords",
+			"response.powerwords",
+			"page.load",
+			"page_load",
+			"getrandompowerw",
+			"request.random",
+			"request.",
+			"getrandomp",
+			"request.random",
+			"response.success",
+			"moduletype",
+			"type",
+			"options.trigger",
+			"dataControl",
+			".js",
+			"map",
+			"emergency",
+			"this",
+			".text",
+			"event.prev",
+			"subscriptions",
+			"getPowerwordsConfig",
+			"trigger_button",
+			"config",
+			"sendpowerwordsconfig",
+			"id",
+			"obj",
+			"objectOfContainersAndTypes",
+			"utils.wrap",
+			"iner",
+			"(data-module-type=\"goto\")",
+			"container",
+			"active",
+			"_trigger",
+			"trigger_clicked",
+			"trigger_button",
+			"data.selector",
+			"trigger_clicked",
+			"trigger_button",
+			"window.open",
+			"this",
+			"button_link",
+			".(",
+			".",
+			", true",
+			"publish",
+			"$.",
+			"myObj",
+			"utils.pubsub",
+			"||",
+			"'",
+			"});\n",
+			"renderPowerwords",
+			"emergency",
+			"clearValue",
+			"$.ajax",
+			"JSON.str",
+			"#",
+			"this",
+			"on('click",
+			".button_label",
+			".trigger_button",
+			"btn-info",
+			"btn_id",
+			"input",
+			"new_powerwords.success",
+			"$",
+			"new powerwords",
+			"pubsub",
+			"sendPowerwordsConfig",
+			"activateButton",
+			"ajaxRequest",
+			"activateButton",
+			"getValue",
+			"logger",
+			"};",
+			"var",
+			"a(",
+			"\")",
+			"primary",
+			".col-xs-2",
+			"sm",
+			"2",
+			"h2",
+			"md",
+			"br",
+			"h3",
+			"routes",
+			"body",
+			"userlist",
+			"str",
+			"\"];",
+			"})",
+			"getRedditNextPageLinks",
+			"$",
+			"	$('",
+			"$",
+			"6-",
+			"numStr",
+			"map",
+			"req.url",
+			"return",
+			"message",
+			".toString()",
+			"num.toString()",
+			"port",
+			";",
+			"isLengthTwo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/async.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/numbers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "tests/app/async.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tests/app/numbers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "help.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "js_unit_testing_assessment.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

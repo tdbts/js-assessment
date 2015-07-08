@@ -11,6 +11,9 @@ define(function() {
       //
       // otherwise the function should return the number, or false if no number
       // was provided or the value provided is not a number
+      return num % 5 === 0 ?  num % 3 === 0 ? "fizzbuzz" :  "buzz" 
+        : num % 3 === 0 ? "fizz" : typeof num === "number" ? num : false; 
+
     }
   };
 });
